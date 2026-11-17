@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PayrollManagementSystem.Api/PayrollManagementSystem.Api.csproj" />
+  <Project Path="Payrollmanagementsystem.Models/Payrollmanagementsystem.Models.csproj" />
+  <Project Path="PayrollManagementSystem.Repositories/PayrollManagementSystem.Repositories.csproj" />
+  <Project Path="PayrollManagementSystem.Services/PayrollManagementSystem.Services.csproj" />
+  <Project Path="PayrollManagementSystem.ViewModels/PayrollManagementSystem.ViewModels.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace PayrollManagementSystem.ViewModels.Result
+{
+    public class RPayrollVm
+    {
+        public ApiResultVm Result { get; set; }
+        public PayrollVm Data { get; set; }
+    }
+}
